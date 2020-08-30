@@ -1,4 +1,4 @@
-#A Custom Investment application
+# A Custom Investment application
 
 Based on Flask and Yahoo Finance data.
 
